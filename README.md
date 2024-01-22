@@ -50,7 +50,7 @@ Travel Tracker is a web application built with Express.js and PostgreSQL to help
 
 4.Run the application:
   
-        npm start
+        nodemon index.js
 
 5. Open your browser and navigate to http://localhost:3000.
 
